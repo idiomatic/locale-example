@@ -1,0 +1,8 @@
+{
+  "name": "locale-example",
+  "regions": [ "us-west-2" ],
+  "type": "server",
+  "static": {
+    "dir": "static"
+  }
+}
